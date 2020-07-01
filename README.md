@@ -7,4 +7,4 @@ Implemented a simple Spotify with users who can create their own playlists and a
 To add single songs (.wav), add them in the folder "Songs" previously created
 To add an album, add a new folder with the album's name which contains the songs of the album in the folder "Albums" previously created
 
-For more information (in Spanish): 
+For more information: [class and use case diagrams](https://github.com/Prashant-JT/MusicApp/blob/master/Project%20diagrams.pdf)
