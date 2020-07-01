@@ -5,7 +5,9 @@ The project implements a user interface and logic necessary to manage, create, m
 ## Add music 
 - Create a folder called "Musica"
 - Create two new folders in "Musica" called "Songs" and "Albums"
+
 To add single songs (.wav), add them in the folder "Songs" previously created
+
 To add an album, add a new folder with the album's name which contains the songs of the album in the folder "Albums" previously created
 
 For more information: [class and use case diagrams](https://github.com/Prashant-JT/MusicApp/blob/master/Project%20diagrams.pdf)
